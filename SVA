@@ -5,6 +5,8 @@ int a,b,c;
 c=a+b;
 }
 sub();
-mul();
+mul(){
+c=b*a;
+}
 mod();
 }
