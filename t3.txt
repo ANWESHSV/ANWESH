@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-to understand git using git commands
+to understand git using git commands using git hub
 =======
 to understand git using git commands
 >>>>>>> branch2
