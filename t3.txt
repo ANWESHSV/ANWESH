@@ -1,1 +1,1 @@
-to understand git
+to understand git using git destop
